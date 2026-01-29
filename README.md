@@ -57,5 +57,12 @@ Music is something I interact with daily, and Spotify data offered a realistic d
 - Writing optimized DAX measures for real use cases  
 - Designing dashboards that balance clarity and aesthetics  
 - Structuring data models for performance  
-- Translating raw data into actionable insights  
+- Translating raw data into actionable insights
+
+---
+
+## Dashboard Preview
+
+![Spotify Music Analytics Dashboard](Spotify-Dashboard/spotifydashboard.png)
+
 
