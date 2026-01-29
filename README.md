@@ -63,6 +63,7 @@ Music is something I interact with daily, and Spotify data offered a realistic d
 
 ## Dashboard Preview
 
-![Spotify Music Analytics Dashboard](Spotify-Dashboard/spotifydashboard.png)
+<img width="1473" height="831" alt="image" src="https://github.com/user-attachments/assets/50eaeaaa-2156-4bd8-b470-596d6e92a8d0" />
+
 
 
